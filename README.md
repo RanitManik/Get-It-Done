@@ -1,5 +1,7 @@
 # **Get It Done**: Revolutionizing Domestic Services Connectivity
 
+![Get It Done Logo](UI_UX/UI_UX.jpg)
+
 ## **Project Overview:**
 At *Get It Done*, we are diligently addressing the challenges surrounding domestic help services. Our visionary platform seeks to bridge the gap between service providers and consumers, facilitating seamless interactions and service exchanges. Our extensive array of services encompasses plumbing, electrical solutions, childcare provisions, and beyond. With a commitment to providing diverse options and fair pricing, we empower users and amplify opportunities for service providers.
 
