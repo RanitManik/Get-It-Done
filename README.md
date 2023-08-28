@@ -32,3 +32,9 @@ For inquiries and updates, kindly liaise with us:
 - [Ranit Manik](ranitmanikofficial@outlook.com)
 - [Mohammad](ranitmanikofficial@outlook.com)
 - [Partha Sarathi Manna](ranitmanikofficial@outlook.com)
+
+## **UI/UX**
+![Get It Done Logo](UI_UX/UI_UX%201.png)
+![Get It Done Logo](UI_UX/UI_UX%203.jpg)
+![Get It Done Logo](UI_UX/UI_UX%204.jpg)
+![Get It Done Logo](UI_UX/UI_UX%205.jpg)
