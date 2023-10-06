@@ -1,4 +1,8 @@
-# **Get It Done**: Revolutionizing Domestic Services Connectivity
+<div align="center">
+  <h1>
+    Get It Done: Revolutionizing Services Connectivity
+  </h1>
+</div>
 
 ![Get It Done Logo](UI_UX/UI_UX%201.png)
 
